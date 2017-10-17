@@ -2,6 +2,6 @@
 <version>
 	<Field name="building1" xpos="1.03" ypos="2.63" zpos="6.26" xrot="4.62" yrot="3.62" zrot="8.12"/>
 	<Field name="tree3" xpos="63.2" ypos="42.1" zpos="4.62" xrot="0" yrot="2.52" zrot="36.2"/>
-  <Field name="building5" xpos="26.4" ypos="5.25" zpos="25.7" xrot="3" yrot="0" zrot="2.5"/>
-  <Field name="building8" xpos="15.7" ypos="27.3" zpos="2.64" xrot="0" yrot="0" zrot="0"/>
+	<Field name="building5" xpos="26.4" ypos="5.25" zpos="25.7" xrot="3" yrot="0" zrot="2.5"/>
+	<Field name="building8" xpos="15.7" ypos="27.3" zpos="2.64" xrot="0" yrot="0" zrot="0"/>
 </version>
