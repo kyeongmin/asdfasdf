@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <version>
-	<Field id="VBAR" version="1.02"  title="VBAR" url="" thumbnail=""/>
+	<Field id="VBAR" version="1.01"  title="VBAR" url="" thumbnail=""/>
 	<Field id="bloodvessel" version="1.01" title="1편_혈관" url="https://dl.dropboxusercontent.com/s/yuux8chd0oaipym/bloodvessel" thumbnail="https://dl.dropboxusercontent.com/s/jlv3x4er16wjr05/bloodvessel.jpg"/>
 	<Field id="liver" version="1.01" title="2편_간" url="https://dl.dropboxusercontent.com/s/8c6dxomdte0qglj/liver" thumbnail="https://dl.dropboxusercontent.com/s/aaieb2j67pm17q5/liver.jpg"/>
 	<Field id="intestine" version="1" title="3편_장" url="https://dl.dropboxusercontent.com/s/h0fmexduymeqo54/intestine" thumbnail="https://dl.dropboxusercontent.com/s/0bq3ucto2yz7flu/intestine.jpg"/>
