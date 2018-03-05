@@ -4,4 +4,6 @@
 	<Field id="bloodvessel" version="1.01" title="1편_혈관" url="https://dl.dropboxusercontent.com/s/urwdk8s3hz9wvua/bloodvessel" thumbnail="https://dl.dropboxusercontent.com/s/jlv3x4er16wjr05/bloodvessel.jpg"/>
 	<Field id="liver" version="1.01" title="2편_간" url="https://dl.dropboxusercontent.com/s/2jhdt1ljtfupl8x/liver" thumbnail="https://dl.dropboxusercontent.com/s/aaieb2j67pm17q5/liver.jpg"/>
 	<Field id="intestine" version="1" title="3편_장" url="https://dl.dropboxusercontent.com/s/r6a1ukgeb829ylu/intestine" thumbnail="https://dl.dropboxusercontent.com/s/0bq3ucto2yz7flu/intestine.jpg"/>
+	<Field id="bone" version="1" title="4편_골관절" url="https://dl.dropboxusercontent.com/s/v0chy09qkkwsyv6/bone" thumbnail="https://dl.dropboxusercontent.com/s/1ye2w8kfo6d0os6/bone.png"/>
+	<Field id="skin" version="1" title="5편_피부" url="https://dl.dropboxusercontent.com/s/piyojlcb192sxos/skin" thumbnail="https://dl.dropboxusercontent.com/s/1ye2w8kfo6d0os6/bone.png"/>
 </version>
